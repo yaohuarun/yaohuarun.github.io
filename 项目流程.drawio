@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="opr-cgQ_Y0XyVPqqcPYw">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-12" edge="1" parent="1" source="5ps1v-Mj8nultwGz9K9l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5ps1v-Mj8nultwGz9K9l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="调研（3天）&lt;div&gt;价值需求：目标、干系人、关注点、阻力点&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="260" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="调研（1周）&lt;div&gt;现状：业务流程、组织结构、人员素质、遗留系统、数据情况&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="260" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-11" edge="1" parent="1" source="5ps1v-Mj8nultwGz9K9l-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5ps1v-Mj8nultwGz9K9l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="335" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" value="&lt;ol&gt;&lt;li&gt;问题卡片：问题/机会、影响人、后果、解决方案&lt;/li&gt;&lt;li&gt;干系人列表&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="560" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-8" edge="1" parent="1" source="5ps1v-Mj8nultwGz9K9l-1" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5ps1v-Mj8nultwGz9K9l-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" value="&lt;ol&gt;&lt;li&gt;业务流程图&lt;/li&gt;&lt;li&gt;组织结构图&lt;/li&gt;&lt;li&gt;系统拓扑图&lt;/li&gt;&lt;li&gt;数据ER图&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5ps1v-Mj8nultwGz9K9l-10" edge="1" parent="1" source="5ps1v-Mj8nultwGz9K9l-2" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5ps1v-Mj8nultwGz9K9l-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="380" as="sourcePoint" />
+            <mxPoint x="580.7106781186548" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
